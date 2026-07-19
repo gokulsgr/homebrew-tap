@@ -1,6 +1,6 @@
 cask "devspace" do
-  version "0.1.0"
-  sha256 "a70ca010bef35e4aaa10754e419787f308ca296e47bdfff4294fe28b7ff9f17a"
+  version "1.0.0"
+  sha256 "8cac33416cd6ac5b33f3cc81376b82c866c434e4366cb0cfb32742eccf68fc0f"
 
   url "https://github.com/gokulsgr/dev-space/releases/download/v#{version}/DevSpace_#{version}_aarch64.dmg"
   name "DevSpace"
